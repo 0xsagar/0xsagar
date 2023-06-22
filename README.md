@@ -16,7 +16,7 @@
 
 - 📫 Reach me on **sagar.roy1208@gmail.com**
 
-- My Resume -   <a href="https://drive.google.com/file/d/19J1ubuYWwZYQptzusxCLAM0vb_kDy6FG/view?usp=sharing" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Resume" height="40" width="40" /></a>
+- My Resume -   <a href="https://drive.google.com/file/d/19J1ubuYWwZYQptzusxCLAM0vb_kDy6FG/view?usp=sharing"> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Resume" height="40" width="40" target="_blank" rel="noopener noreferrer"/></a>
 
 
 <h3 align="left">Connect with me:</h3>
